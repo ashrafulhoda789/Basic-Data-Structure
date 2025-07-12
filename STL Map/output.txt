@@ -1,0 +1,8 @@
+He 1
+I 1
+cricket 1
+football 3
+love 3
+loves 1
+they 1
+we 1
